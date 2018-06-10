@@ -1,0 +1,25 @@
+# editorconfig.org
+root = true
+
+[*]
+indent_size = 4
+indent_style = tab
+end_of_line = lf
+charset = utf-8
+insert_final_newline = true
+
+# Source code
+[*.{js,tpl,html,scss}]
+indent_size = 4
+indent_style = tab
+trim_trailing_whitespace = true
+
+# Config
+[*.{json,xml}]
+indent_size = 4
+indent_style = space
+trim_trailing_whitespace = true
+
+# Documentation
+[*.md]
+trim_trailing_whitespace = false
