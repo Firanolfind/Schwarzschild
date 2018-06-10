@@ -1,6 +1,6 @@
 # Schwarzschild
 
-Library to create read-only object.
+Library to create read-only object. Useful for global configurations and static settings;
 
 ## Installation 
 
