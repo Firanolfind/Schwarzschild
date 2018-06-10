@@ -6,7 +6,18 @@
   "scripts": {
     "test": "npm test"
   },
-  "author": "Firanolfind",
+  "author": {
+    "name": "Firanolfind",
+    "url": "https://github.com/Firanolfind"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Firanolfind/Schwarzschild.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Firanolfind/Schwarzschild/issues"
+  },
+  "homepage": "https://github.com/Firanolfind/Schwarzschild#readme",
   "license": "MIT",
   "engines": {
     "node": ">= 6.8.0"
